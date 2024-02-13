@@ -1,5 +1,5 @@
 function getSignup(req, res) {
-    // TODO
+    res.render('customer/auth/signup');
 }
 
 function getLogin(req, res) {
